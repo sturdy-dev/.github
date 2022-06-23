@@ -1,10 +1,14 @@
-## Hi there 🐣
+## Heyooo! 🐣
 
 <img align="right" width="100" height="100" src="https://getsturdy.com/assets/DuckCap92.8f469542.png">
 
-[We're Sturdy &mdash; **real-time version control**.](https://getsturdy.com/)  
-Sturdy is an open-source version control platform that allows you to interact with your code at a higher abstraction level.
+Hey, we're team behind [**Codeball – AI Code Review**](https://codeball.ai/) and [**Sturdy – Real time version control**](https://getsturdy.com/).
 
-🐥 [Get started](https://getsturdy.com/)  
-🐣 [Read the docs](https://getsturdy.com/docs)  
+It's nice to see you here, hope that you'll like it!
+
+For questions and answers, please reach out in the issues.
+
+🧠 [Get started with Codeball](https://codeball.ai/)   
+🐥 [Get started with Sturdy](https://getsturdy.com/)  
+🐣 [Sturdy Documentation](https://getsturdy.com/docs)  
 ⭐️ [Follow us on Twitter](https://twitter.com/getsturdy)  
