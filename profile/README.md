@@ -1,14 +1,8 @@
-## Heyooo! 🐣
+![Codeball](https://user-images.githubusercontent.com/47952/173048697-d3d39fc3-6238-4fc3-9baf-ccbbb3b4258c.png)
 
-<img align="right" width="100" height="100" src="https://getsturdy.com/assets/DuckCap92.8f469542.png">
+Hey! We're the team behind Codeball – **AI-POWERED CODE REVIEW**.
 
-Hey, we're team behind [**Codeball – AI Code Review**](https://codeball.ai/) and [**Sturdy – Real time version control**](https://getsturdy.com/).
+Codeball is your AI companion, your AI friend, and your best colleague.
 
-It's nice to see you here, hope that you'll like it!
-
-For questions and answers, please reach out in the issues.
-
-🧠 [Get started with Codeball](https://codeball.ai/)   
-🐥 [Get started with Sturdy](https://getsturdy.com/)  
-🐣 [Sturdy Documentation](https://getsturdy.com/docs)  
-⭐️ [Follow us on Twitter](https://twitter.com/getsturdy)  
+🧠 [Get started with Codeball](https://codeball.ai/).  
+🙋‍♀️ [Read more on our FAQ](https://codeball.ai/faq)  
